@@ -1,6 +1,6 @@
-# 📝 Todo App (JavaScript)
+# 📝 DailyTasks-Website (JavaScript)
 
-A simple and practical **Todo List Application** built with **Vanilla JavaScript, HTML, and Bootstrap**.
+A simple and practical **DailyTasks-Website** built with **Vanilla JavaScript, HTML, and Bootstrap**.
 This project helps users manage daily tasks with features such as adding, completing, searching, filtering, and storing tasks locally.
 
 ---
